@@ -1,0 +1,3 @@
+default.prototype.control = function() {		
+};
+	

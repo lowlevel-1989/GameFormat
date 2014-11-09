@@ -1,0 +1,1 @@
+intro.prototype.renders = function(metodo) {};

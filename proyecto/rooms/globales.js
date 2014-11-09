@@ -1,0 +1,1 @@
+//variables globales para todos los rooms

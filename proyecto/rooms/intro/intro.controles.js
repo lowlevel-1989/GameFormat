@@ -1,0 +1,1 @@
+intro.prototype.controles = function(metodo) {};
